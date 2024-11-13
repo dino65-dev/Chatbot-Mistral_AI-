@@ -15,6 +15,8 @@
     "env": {
       "API_KEY": "API_KEY",
       "LANGCHAIN_API_KEY": "LANGCHAIN_API_KEY"
+    },
+    "projectSettings": { "buildCommand": null, "devCommand": null, "framework": "python", "commandForIgnoringBuildStep": "", "installCommand": null, "outputDirectory": null
     }
-  }
+    }
   
