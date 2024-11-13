@@ -1,8 +1,16 @@
-# Ignore environment variables file
-.env
+# Ignore virtual environment
+.venv/
+env/
 
-# Ignore other common files and directories
+# Ignore compiled bytecode
 __pycache__/
 *.py[cod]
-venv/
-.vercel
+
+# Ignore environment variable files
+.env
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Firebase configuration files
+.firebase/
