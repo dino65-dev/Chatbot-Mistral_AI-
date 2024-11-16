@@ -30,5 +30,4 @@ parser = StrOutputParser()
 result = parser.invoke((output))
 
 # output
-if input_text:
-    st.write(result)
+st.write(result)
