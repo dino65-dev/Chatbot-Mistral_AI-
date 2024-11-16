@@ -5,7 +5,8 @@ from langchain_mistralai import ChatMistralAI
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_core.output_parsers import StrOutputParser
-
+#LANGCHAIN_API_KEY="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"
+#API_KEY="1SNAEEGcwd0jX2K3tIXzMFUSIlNh5gOD"
 # Langchain settings
 load_dotenv(".env")
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
