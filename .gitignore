@@ -8,9 +8,3 @@ __pycache__/
 
 # Ignore environment variable files
 .env
-
-# Ignore node_modules
-node_modules/
-
-# Ignore Firebase configuration files
-.firebase/
